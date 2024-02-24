@@ -1,0 +1,11 @@
+C:\Users\ayush\my_function\target\x86_64-unknown-linux-gnu\release\deps\socket2-bf76cdb04a53173a.rmeta: C:\Users\ayush\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\lib.rs C:\Users\ayush\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\sockaddr.rs C:\Users\ayush\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\socket.rs C:\Users\ayush\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\sockref.rs C:\Users\ayush\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\sys\unix.rs
+
+C:\Users\ayush\my_function\target\x86_64-unknown-linux-gnu\release\deps\libsocket2-bf76cdb04a53173a.rlib: C:\Users\ayush\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\lib.rs C:\Users\ayush\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\sockaddr.rs C:\Users\ayush\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\socket.rs C:\Users\ayush\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\sockref.rs C:\Users\ayush\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\sys\unix.rs
+
+C:\Users\ayush\my_function\target\x86_64-unknown-linux-gnu\release\deps\socket2-bf76cdb04a53173a.d: C:\Users\ayush\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\lib.rs C:\Users\ayush\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\sockaddr.rs C:\Users\ayush\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\socket.rs C:\Users\ayush\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\sockref.rs C:\Users\ayush\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\sys\unix.rs
+
+C:\Users\ayush\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\lib.rs:
+C:\Users\ayush\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\sockaddr.rs:
+C:\Users\ayush\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\socket.rs:
+C:\Users\ayush\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\sockref.rs:
+C:\Users\ayush\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\sys\unix.rs:

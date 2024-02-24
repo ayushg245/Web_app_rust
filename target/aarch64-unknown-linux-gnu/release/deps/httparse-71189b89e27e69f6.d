@@ -1,0 +1,11 @@
+C:\Users\ayush\my_function\target\aarch64-unknown-linux-gnu\release\deps\httparse-71189b89e27e69f6.rmeta: C:\Users\ayush\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.8.0\src\lib.rs C:\Users\ayush\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.8.0\src\iter.rs C:\Users\ayush\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.8.0\src\macros.rs C:\Users\ayush\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.8.0\src\simd\mod.rs C:\Users\ayush\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.8.0\src\simd\fallback.rs
+
+C:\Users\ayush\my_function\target\aarch64-unknown-linux-gnu\release\deps\libhttparse-71189b89e27e69f6.rlib: C:\Users\ayush\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.8.0\src\lib.rs C:\Users\ayush\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.8.0\src\iter.rs C:\Users\ayush\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.8.0\src\macros.rs C:\Users\ayush\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.8.0\src\simd\mod.rs C:\Users\ayush\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.8.0\src\simd\fallback.rs
+
+C:\Users\ayush\my_function\target\aarch64-unknown-linux-gnu\release\deps\httparse-71189b89e27e69f6.d: C:\Users\ayush\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.8.0\src\lib.rs C:\Users\ayush\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.8.0\src\iter.rs C:\Users\ayush\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.8.0\src\macros.rs C:\Users\ayush\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.8.0\src\simd\mod.rs C:\Users\ayush\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.8.0\src\simd\fallback.rs
+
+C:\Users\ayush\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.8.0\src\lib.rs:
+C:\Users\ayush\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.8.0\src\iter.rs:
+C:\Users\ayush\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.8.0\src\macros.rs:
+C:\Users\ayush\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.8.0\src\simd\mod.rs:
+C:\Users\ayush\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.8.0\src\simd\fallback.rs:
